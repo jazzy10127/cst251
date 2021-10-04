@@ -15,7 +15,12 @@ div#content {
 h1, h2, h3 {
     font-family: "Courier New", monospace;
 }
-
+h1:hover{
+  font-size: 200%
+}
+p{
+  font-family: "courier new", bolf:
+}
 img {
     float: right;
     width: 400px;
