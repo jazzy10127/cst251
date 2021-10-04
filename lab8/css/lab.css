@@ -17,6 +17,7 @@ h1, h2, h3 {
 }
 h1:hover{
   font-size: 250%
+  transition: all 0.5s
 }
 p{
   font-family: "courier new", bold:
