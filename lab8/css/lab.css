@@ -17,7 +17,6 @@ h1, h2, h3 {
 }
 h1:hover{
   font-size: 250%
-  color:red
   transition: all 0.75s
 }
 p{
