@@ -1,5 +1,5 @@
 body {
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Abel', sans-serif;
     background-color: lavenderblush;
     padding: 25px;
     font-size: 120%;
@@ -13,7 +13,7 @@ div#content {
 }
 
 h1, h2, h3 {
-    font-family: "Courier New", monospace;
+    font-family: 'Architects Daughter', cursive;
 }
 h1#heading:hover{
   font-size: 300%
