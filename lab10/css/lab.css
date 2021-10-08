@@ -15,7 +15,7 @@ div#content {
 h1, h2, h3 {
     font-family: 'Architects Daughter', cursive;
 }
-h1#heading:hover{
+h1:hover{
   font-size: 300%
   transition: all 0.75s
 }
