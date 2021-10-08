@@ -15,19 +15,15 @@ div#content {
 h1, h2, h3 {
     font-family: 'Architects Daughter', cursive;
 }
-h1:hover{
-  font-size: 300%
-  transition: all 0.75s
-}
 p{
   font-family: "courier new", bold:
 }
-img {
-    float: right;
-    width: 400px;
-    height: auto;
+img:hover{
+  float: right;
+  width: 500px
+  height: auto;
+  transition: all 0.75s
 }
-
 a {
     text-decoration: none;
     color: maroon;
