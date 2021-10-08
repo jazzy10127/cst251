@@ -20,7 +20,7 @@ p{
 }
 img:hover{
   float: right;
-  width: 500px
+  width: 600px
   height: auto;
   transition: all 0.75s
 }
