@@ -43,7 +43,11 @@ h1, h2, h3 {
 p{
   font-family: "courier new", bold:
 }
-
+img{
+  width:150px;
+  height: auto;
+  float:right;
+}
 a {
     text-decoration: none;
     color: maroon;
