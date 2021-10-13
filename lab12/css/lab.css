@@ -17,7 +17,7 @@ main#content{
   padding-left:10px;
   background-color: #FFF0F5;
   height: auto;
-  width: 95%;
+  width: inherit;
   border: solid 5px #FFC2D6;
 
 }
