@@ -9,7 +9,22 @@ div#content {
     padding: 25px;
     background-color: lavenderblush;
     border: solid 5px #FFC2D6;
-    height:inherit;
+    height:auto;
+    width: 30%;
+}
+div#img{
+  padding:25px;
+  background-color: lavenderblush;
+  border: solid 5px #FFC2D6;
+  height:auto;
+  width: 30%;
+}
+div#center-both{
+  padding:25px;
+  background-color: lavenderblush;
+  border: solid 5px #FFC2D6;
+  height:auto;
+  width: 30%;  
 }
 main#content{
   margin-top:20px;
@@ -19,7 +34,6 @@ main#content{
   height: auto;
   width: inherit;
   border: solid 5px #FFC2D6;
-
 }
 h1, h2, h3 {
     font-family: 'Architects Daughter', cursive;
@@ -27,11 +41,7 @@ h1, h2, h3 {
 p{
   font-family: "courier new", bold:
 }
-img{
-  float: right;
-  width: 225px;
-  height: auto;
-}
+
 a {
     text-decoration: none;
     color: maroon;
