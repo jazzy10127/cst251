@@ -18,13 +18,15 @@ div#img{
   border: solid 5px #FFC2D6;
   height:auto;
   width: 30%;
+  float: right;
 }
 div#center-both{
   padding:25px;
   background-color: lavenderblush;
   border: solid 5px #FFC2D6;
   height:auto;
-  width: 30%;  
+  width: 30%;
+  float: right;
 }
 main#content{
   margin-top:20px;
