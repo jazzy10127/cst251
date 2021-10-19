@@ -1,0 +1,43 @@
+body {
+    font-family: 'Abel', sans-serif;
+    background-color: #ffffff;
+    padding: 25px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: white;
+    border: solid 1px #ffffff;
+    height: 80vh;
+}
+main#content{
+  margin-top:200px;
+  padding:25px;
+  padding-left:40px;
+  background-color: #ffffff;
+  height: auto;
+  width: 62%;
+  border: solid 5px #ffffff;
+
+}
+h1, h2, h3 {
+    font-family: 'Architects Daughter', cursive;
+}
+p{
+  font-family: "courier new", bold:
+}
+img:hover{
+  float: right;
+  width: 600px
+  height: auto;
+  transition: all 0.75s
+}
+a {
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
