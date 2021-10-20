@@ -1,5 +1,5 @@
 nav#links{
-  word-spacing: 25px
+  word-spacing: 25px;
 }
 h1{
   font-size: 1000%;
@@ -95,3 +95,9 @@ div {
     height: auto;
     width: 100%;
     border: solid 5px #ffffff;
+  }
+  nav#button{
+    background-color: white;
+    color: #bababa;
+    
+  }
