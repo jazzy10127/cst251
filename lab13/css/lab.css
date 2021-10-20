@@ -18,7 +18,7 @@ body {
   color: #e3c16f
 }
 div#content {
-    padding: 50px;
+    padding: 15px;
     background-color: white;
     border: solid 1px #ffffff;
     height: 80vh;
@@ -45,7 +45,7 @@ img{
   height: auto;
 }
 a {
-    text-decoration: underline;
+    text-decoration: none;
     color: #bababa;
 }
 a:hover {
