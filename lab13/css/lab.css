@@ -12,6 +12,9 @@ body {
     background-color: #ffffff;
     padding: 25px;
     font-size: 120%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 .content{
@@ -52,26 +55,36 @@ a:hover {
   color: #e3c16f;
   letter-spacing: 5px;
   font-size: 1000%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .e{
   color: #dd947d;
   letter-spacing: 5px;
   font-size: 1000%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .l{
   color:#7dc1af;
   letter-spacing: 5px;
   font-size: 1000%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .o{
   color:#cf716e ;
   letter-spacing:5px;
   font-size: 1000%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .period{
   color:#dd947d ;
   letter-spacing: 5px;
   font-size: 1000%;
+  margin-left: auto;
+  margin-right: auto;
 }
 h1  {
 text-align: center;
