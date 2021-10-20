@@ -17,25 +17,6 @@ body {
     margin-right: auto;
 
 }
-.content{
-  color: #e3c16f
-}
-div#content {
-    padding: 15px;
-    background-color: white;
-    border: solid 1px #ffffff;
-    height: 80vh;
-}
-main#content{
-  margin-top:200px;
-  padding:25px;
-  padding-left:40px;
-  background-color: #ffffff;
-  height: auto;
-  width: 62%;
-  border: solid 5px #ffffff;
-
-}
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
 }
@@ -97,3 +78,20 @@ img {
     width: 150px;
     height: auto;
 }
+div {
+    margin-top: -57px;
+    padding: 0px;
+    padding-left: 0px;
+    background-color: #ffffff;
+    height: auto;
+    width: 65%;
+    border: solid 5px #ffffff;
+  }
+  main#content {
+    margin-top: 150px;
+    padding: 50px;
+    padding-left: 200px;
+    background-color: #ffffff;
+    height: auto;
+    width: 100%;
+    border: solid 5px #ffffff;
