@@ -46,9 +46,10 @@ img{
 }
 a {
     text-decoration: underline;
-    color: black;
+    color: #bababa;
 }
 a:hover {
     text-decoration: underline;
     text-decoration-style: solid;
+    color: black;
 }
