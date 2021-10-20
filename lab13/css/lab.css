@@ -1,8 +1,13 @@
+h1{
+  font-size: 250%;
+  letter-spacing: 3px;
+}
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #ffffff;
     padding: 25px;
     font-size: 120%;
+
 }
 .content{
   color: #e3c16f
