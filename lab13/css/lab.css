@@ -48,10 +48,29 @@ a:hover {
     text-decoration-style: solid;
     color: black;
 }
+.h{
+  color: #e3c16f;
+ letter-spacing: 5px
+}
+.e{
+  color: #dd947d;
+  letter-spacing: 5px;
+}
+.l{
+  color:#7dc1af;
+  letter-spacing: 5px;
+}
+.o{
+  color:#cf716e ;
+  letter-spacing:5px;
+}
+.period{
+  color:#dd947d ;
+  letter-spacing: 5px;
+}
 h1  {
 text-align: center;
 border:1px white;
-
 }
 img {
     display: block;
