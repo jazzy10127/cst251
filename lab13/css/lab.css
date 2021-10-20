@@ -4,6 +4,8 @@ nav#links{
 h1{
   font-size: 1000%;
   letter-spacing: 6px;
+  margin-block-start: 0.20em;
+  margin-block-end:0.20em;
 }
 body {
     font-family: 'Roboto', sans-serif;
