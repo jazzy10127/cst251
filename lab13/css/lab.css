@@ -30,11 +30,8 @@ p{
   font-family: 'Roboto', sans-serif;
 }
 img:hover{
-  float: right;
   position: relative;
-  width: 50vw;
-  height: 50vw;
-  width: 600px
+  width: 150px
   height: auto;
   transition: all 0.75s
 }
