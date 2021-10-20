@@ -31,6 +31,9 @@ p{
 }
 img:hover{
   float: right;
+  position: relative;
+  width: 50vw;
+  height: 50vw;
   width: 600px
   height: auto;
   transition: all 0.75s
