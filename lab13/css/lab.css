@@ -4,7 +4,9 @@ body {
     padding: 25px;
     font-size: 120%;
 }
-
+.content{
+  color: #e3c16f
+}
 div#content {
     padding: 50px;
     background-color: white;
