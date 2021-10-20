@@ -39,11 +39,10 @@ h1, h2, h3 {
 p{
   font-family: 'Roboto', sans-serif;
 }
-img:hover{
-  position: relative;
-  width: 150px
+img{
+  position: right;
+  width: 150px;
   height: auto;
-  transition: all 0.75s
 }
 a {
     text-decoration: none;
