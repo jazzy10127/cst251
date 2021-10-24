@@ -78,7 +78,7 @@ img {
     width: 150px;
     height: auto;
 }
-div {
+div#image {
     margin-top: -57px;
     padding: 0px;
     padding-left: 0px;
@@ -99,5 +99,5 @@ div {
   div#button{
     background-color: white;
     color: #bababa;
-    
+
   }
