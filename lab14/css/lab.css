@@ -10,7 +10,7 @@ div#content {
     background-color: lavenderblush;
     border: solid 5px #FFC2D6;
     height:auto;
-    width: 30%;
+    width: auto;
 }
 
 main#content{
