@@ -1,13 +1,13 @@
 body {
     font-family: 'Abel', sans-serif;
-    background-color: lavenderblush;
+    background-color: white;
     padding: 25px;
     font-size: 120%;
 }
 
 div#content {
     padding: 25px;
-    background-color: lavenderblush;
+    background-color: white;
     border: solid 5px #FFC2D6;
     height:auto;
     width: 30%;
