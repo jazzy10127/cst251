@@ -1,8 +1,9 @@
 body {
     font-family: 'Abel', sans-serif;
-    background-color: white;
+    /*background-color: white;*/
     padding: 25px;
     font-size: 120%;
+    background-image: url("../img/suntown.jpg");
 }
 
 div#content {
