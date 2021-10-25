@@ -6,6 +6,7 @@ body {
 }
 div#main{
   font-family: 'Roboto', sans-serif;
+  font-size: 100px;
 }
 div#content {
     padding: 25px;
