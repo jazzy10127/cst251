@@ -18,10 +18,9 @@ div#content {
 }
 div#img{
   box-shadow: 4px 4px 6px white;
-  height:300px;
+  height:auto;
   width:auto;
   float: right;
-  padding: 5px;
   object-fit: cover;
   filter: brightness(0.80);
   border-radius: 5px;
