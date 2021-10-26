@@ -60,3 +60,7 @@ img:hover{
   transform: rotate(10deg);
   transition: 0.5s;
 }
+div#img:hover{
+  transform: rotate(10deg);
+  transition: 0.5s;
+}
