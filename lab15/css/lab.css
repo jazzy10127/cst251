@@ -23,7 +23,7 @@ div#img{
   float: right;
   padding: 5px;
   object-fit: cover;
-  filter: contrast(0.50);
+  filter: brightness(0.80);
     border-radius: 5px;
 }
 
