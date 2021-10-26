@@ -15,6 +15,7 @@ div#content {
     width: 30%;
 }
 div#img{
+  box-shadow: 4px 4px 6px white;
   padding:25px;
   background-color: #db8b6f;
   border: solid 5px #bfa196;
