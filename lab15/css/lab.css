@@ -16,11 +16,7 @@ div#content {
 }
 div#img{
   box-shadow: 4px 4px 6px white;
-  padding:25px;
-  background-color: #db8b6f;
-  border: solid 5px #bfa196;
   height:auto;
-  width: 30%;
   float: right;
 }
 
