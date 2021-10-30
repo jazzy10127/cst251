@@ -19,6 +19,12 @@ div#content {
 
 h1, h2, h3 {
     font-family: "Courier New", monospace;
+    width:730px;
+    height: 43px;
+    transition: width 2s;
+}
+h1,h2,h3: hover{
+  width: 800px
 }
 h1#heading:hover{
   font-size: 250%
