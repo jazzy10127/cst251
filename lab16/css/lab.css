@@ -4,6 +4,7 @@ html{
 }
 body {
     font-family: Helvetica, Verdana, Arial, "san serif";
+    background-image: url(../img/turkey.png);
     background-color: lavenderblush;
     padding: 25px;
     font-size: 120%;
