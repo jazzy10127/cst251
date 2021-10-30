@@ -1,6 +1,8 @@
 body {
     font-family: Helvetica, Verdana, Arial, "san serif";
-    background-color: lavenderblush;
+    background-image:  url(../img/turkey.png),url(../img/fallback.jpg);
+    background-position: right bottom; left top;
+    background-repeat: no-repeat;
     padding: 25px;
     font-size: 120%;
 }
