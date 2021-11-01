@@ -24,11 +24,11 @@ h1, h2, h3 {
     transition: width 2s;
 }
 h1,h2,h3: hover{
-  width: 800px
+  width: 800px;
 }
 h1#heading:hover{
-  font-size: 250%
-  transition: all 0.75s
+  font-size: 250%;
+  transition: all 0.75s;
 }
 p{
   font-family: "courier new", bold:
