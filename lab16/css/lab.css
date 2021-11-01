@@ -33,6 +33,9 @@ h1#heading:hover{
 p{
   font-family: "courier new", bold:
 }
+.problems{
+  column-count: 3;
+}
 div#animeted{
   animation-duration: 7s;
   animation-timing-function: ease-in-out;
