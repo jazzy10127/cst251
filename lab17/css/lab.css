@@ -12,12 +12,12 @@ header {
     height: 9vh;
 }
 main#content{
-  margin-top:200px;
-  padding:25px;
-  padding-left:40px;
+  margin-top:20px;
+  padding:5px;
+  padding-left:2px;
   background-color: #c8dcf4;
   height: auto;
-  width: 62%;
+  width: 50%;
   border: solid 5px #4a8fe1;
 
 }
