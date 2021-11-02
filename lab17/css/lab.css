@@ -42,6 +42,8 @@ footer{
   margin: 8px;
   padding: 3px;
   width: 30%;
+  border: solid 5px #4a8fe1;
+  background-color: #c8dcf4;
 }
 img:hover{
   float: right;
