@@ -5,10 +5,10 @@ body {
     font-size: 120%;
 }
 
-div#content {
-    padding: 50px;
+header {
+    padding: 25px;
     background-color: lavenderblush;
-    border: solid 1px #333333;
+    border: solid 5px #333333;
     height: 80vh;
 }
 main#content{
