@@ -7,18 +7,18 @@ body {
 
 header {
     padding: 25px;
-    background-color: lavenderblush;
-    border: solid 5px #333333;
-    height: 80vh;
+    background-color: #c8dcf4;
+    border: solid 5px #4a8fe1;
+    height: 9vh;
 }
 main#content{
   margin-top:200px;
   padding:25px;
   padding-left:40px;
-  background-color: #FFF0F5;
+  background-color: #c8dcf4;
   height: auto;
   width: 62%;
-  border: solid 5px #FFC2D6;
+  border: solid 5px #4a8fe1;
 
 }
 h1, h2, h3 {
