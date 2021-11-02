@@ -27,6 +27,15 @@ h1, h2, h3 {
 p{
   font-family: "courier new", bold:
 }
+footer{
+  margin-top:20px;
+  padding:5px;
+  padding-left:2px;
+  background-color: #c8dcf4;
+  height: auto;
+  width: 45%;
+  border: solid 5px #4a8fe1;
+}
 #sidebar{
   display: inline-block;
   float: right;
