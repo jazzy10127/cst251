@@ -51,7 +51,8 @@ footer{
 .flex-container {
   display: flex;
   background-color: #a3bce1;
-  border:solid 5px #4a8fe1
+  border:solid 5px #4a8fe1;
+  width: fit-content; 
 }
 
 .flex-container > div {
