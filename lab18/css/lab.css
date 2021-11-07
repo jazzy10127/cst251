@@ -48,12 +48,17 @@ footer{
   border: solid 5px #4a8fe1;
   background-color: #a3bce1;
 }
-.flexcontainer{
-  width:fit-content;
-  height: auto;
-  border: solid 5px #4a8fe1;
+.flex-container {
+  display: flex;
   background-color: #a3bce1;
-  padding: 25px;
+  border:solid 5px #4a8fe1
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  color:white;
 }
 
 a {
