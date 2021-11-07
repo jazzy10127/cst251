@@ -4,6 +4,7 @@ body {
     background-color: #c8dcf4;
     padding: 25px;
     font-size: 120%;
+
 }
 
 header {
@@ -60,6 +61,7 @@ footer{
   padding: 20px;
   font-size: 30px;
   color:white;
+  border: solid 5px #4a8fe1;
 }
 div#img{
   border:solid 5px #4a8fe1;
