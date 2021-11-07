@@ -52,7 +52,7 @@ footer{
   display: flex;
   background-color: #a3bce1;
   border:solid 5px #4a8fe1;
-  width: fit-content; 
+  width: fit-content;
 }
 
 .flex-container > div {
@@ -61,7 +61,11 @@ footer{
   font-size: 30px;
   color:white;
 }
-
+div#img{
+  border:solid 5px #4a8fe1;
+  background-color: #a3bce1;
+   
+}
 a {
     text-decoration: none;
     color: white;
