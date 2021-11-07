@@ -46,11 +46,12 @@ footer{
   border: solid 5px #4a8fe1;
   background-color: #c8dcf4;
 }
-div#flexcontainer{
+.flexcontainer{
   width:auto;
   height: auto;
   border: solid 5px #4a8fe1;
   background-color: #c8dcf4;
+  padding: 25px; 
 }
 
 a {
