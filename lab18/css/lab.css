@@ -24,9 +24,11 @@ main#content{
 }
 h1, h2, h3 {
     font-family: 'Architects Daughter', cursive;
+    color:white;
 }
 p{
   font-family: "courier new", bold:
+  color:white;
 }
 footer{
   margin-top:20px;
