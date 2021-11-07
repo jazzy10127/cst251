@@ -46,12 +46,7 @@ footer{
   border: solid 5px #4a8fe1;
   background-color: #c8dcf4;s
 }
-img:hover{
-  float: right;
-  width: 600px
-  height: auto;
-  transition: all 0.75s
-}
+
 a {
     text-decoration: none;
     color: white;
