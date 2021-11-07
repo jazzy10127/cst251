@@ -67,8 +67,8 @@ div#img{
   border:solid 5px #4a8fe1;
   background-color: #a3bce1;
   text-align: center;
-  display: flex;
   justify-content: space-between;
+  margin: auto;
 }
 a {
     text-decoration: none;
