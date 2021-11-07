@@ -47,11 +47,11 @@ footer{
   background-color: #c8dcf4;
 }
 .flexcontainer{
-  width:auto;
+  width:fit-content;
   height: auto;
   border: solid 5px #4a8fe1;
   background-color: #c8dcf4;
-  padding: 25px; 
+  padding: 25px;
 }
 
 a {
