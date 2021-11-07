@@ -8,7 +8,7 @@ body {
 
 header {
     padding: 25px;
-    background-color: #c8dcf4;
+    background-color: #a3bce1;
     border: solid 5px #4a8fe1;
     height: 9vh;
 }
@@ -16,7 +16,7 @@ main#content{
   margin-top:20px;
   padding:5px;
   padding-left:2px;
-  background-color: #c8dcf4;
+  background-color: #a3bce1;
   height: auto;
   width: 45%;
   border: solid 5px #4a8fe1;
@@ -32,7 +32,7 @@ footer{
   margin-top:20px;
   padding:5px;
   padding-left:2px;
-  background-color: #c8dcf4;
+  background-color: #a3bce1;
   height: auto;
   width: 45%;
   border: solid 5px #4a8fe1;
@@ -44,13 +44,13 @@ footer{
   padding: 3px;
   width: 30%;
   border: solid 5px #4a8fe1;
-  background-color: #c8dcf4;
+  background-color: #a3bce1;
 }
 .flexcontainer{
   width:fit-content;
   height: auto;
   border: solid 5px #4a8fe1;
-  background-color: #c8dcf4;
+  background-color: #a3bce1;
   padding: 25px;
 }
 
