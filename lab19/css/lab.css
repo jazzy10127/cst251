@@ -39,9 +39,9 @@ footer{
   margin-top:20px;
   padding:5px;
   padding-left:2px;
-  background-color: ##a1dddb;
+  background-color: #a1dddb;
   height: auto;
-  width: 45%;
+  width: 100%;
   border: solid 5px #74c6c3;
   color: white;
 }
