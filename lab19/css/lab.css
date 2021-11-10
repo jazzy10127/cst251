@@ -9,18 +9,18 @@ body {
 
 header {
     padding: 25px;
-    background-color: #a3bce1;
-    border: solid 5px #4a8fe1;
+    background-color: #a1dddb;
+    border: solid 5px #74c6c3;
     height: 9vh;
 }
 main#content{
   margin-top:20px;
   padding:5px;
   padding-left:2px;
-  background-color: #a3bce1;
+  background-color: #a1dddb;
   height: auto;
   width: 45%;
-  border: solid 5px #4a8fe1;
+  border: solid 5px #74c6c3;
 
 }
 h1, h2, h3 {
@@ -38,7 +38,7 @@ footer{
   background-color: #a3bce1;
   height: auto;
   width: 45%;
-  border: solid 5px #4a8fe1;
+  border: solid 5px #74c6c3;
 }
 #sidebar{
   display: inline-block;
@@ -46,13 +46,13 @@ footer{
   margin: 8px;
   padding: 3px;
   width: 30%;
-  border: solid 5px #4a8fe1;
-  background-color: #a3bce1;
+  border: solid 5px #74c6c3;
+  background-color: #a1dddb;
 }
 .flex-container {
   display: flex;
-  background-color: #a3bce1;
-  border:solid 5px #4a8fe1;
+  background-color: #a1dddb;
+  border:solid 5px #74c6c3;
   width: auto;
 }
 
@@ -60,10 +60,10 @@ footer{
   margin: 10px;
   padding: 20px;
   color:white;
-  border: solid 5px #4a8fe1;
+  border: solid 5px #74c6c3;
 }
 div#img{
-  border:solid 5px #4a8fe1;
+  border:solid 5px #74c6c3;
   background-color: #a3bce1;
   text-align: center;
   justify-content: space-between;
