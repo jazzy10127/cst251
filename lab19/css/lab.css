@@ -39,7 +39,7 @@ footer{
   margin-top:20px;
   padding:5px;
   padding-left:2px;
-  background-color: #a3bce1;
+  background-color: ##a1dddb;
   height: auto;
   width: 45%;
   border: solid 5px #74c6c3;
@@ -68,7 +68,7 @@ footer{
 }
 div#img{
   border:solid 5px #74c6c3;
-  background-color: #a3bce1;
+  background-color: #a1dddb;
   text-align: center;
   justify-content: space-between;
   margin: auto;
