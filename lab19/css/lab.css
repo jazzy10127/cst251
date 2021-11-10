@@ -43,6 +43,7 @@ footer{
   height: auto;
   width: 45%;
   border: solid 5px #74c6c3;
+  color: white;
 }
 #sidebar{
   display: inline-block;
