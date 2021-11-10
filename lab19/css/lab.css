@@ -1,5 +1,6 @@
 body {
   background-image: linear-gradient(#a1dddb,#509d00,#8d2e32);
+  background-repeat: no-repeat;
     font-family: 'Abel', sans-serif;
     background-color: #c8dcf4;
     padding: 25px;
