@@ -1,7 +1,7 @@
 body {
   background-image: linear-gradient(#a1dddb,#509d00,#8d2e32);
   background-repeat: no-repeat;
-    font-family: 'Abel', sans-serif;
+    font-family:'Dongle', sans-serif;;
     background-color: #a1dddb;
     padding: 25px;
     font-size: 200%;
@@ -28,7 +28,10 @@ main#content{
 
 }
 h1, h2, h3 {
-    font-family: 'Architects Daughter', cursive;
+    font-family:'Comfortaa', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mochiy Pop One', sans-serif;
+font-family: 'Roboto', sans-serif;
     color:white;
 }
 p{
